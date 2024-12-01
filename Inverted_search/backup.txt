@@ -1,0 +1,17 @@
+
+#<0>;
+<are>;<1>;<file2.txt>;<6>;
+#<3>;
+<doing>;<1>;<file2.txt>;<2>;
+#<7>;
+<Hii>;<1>;<file1.txt>;<2>;<how>;<1>;<file2.txt>;<2>;
+#<8>;
+<is>;<1>;<file1.txt>;<2>;
+#<12>;
+<my>;<1>;<file1.txt>;<2>;<mandy>;<1>;<file1.txt>;<2>;
+#<13>;
+<name>;<1>;<file1.txt>;<2>;
+#<22>;
+<what>;<1>;<file2.txt>;<2>;
+#<24>;
+<you>;<1>;<file2.txt>;<4>;
